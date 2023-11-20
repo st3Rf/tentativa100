@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SURPRESA</title>
+    <link rel="shortcut icon" href="css/favicon.ico" type="image/x-icon">
+    
+</head>
+<body>
+    <h1>SABE QUE DIA É HOJE?</h1>
+    <div class="image"><img src="css/sapinho2.jpg" alt="imagem"></div>
+    <h2>TOQUE PARA UMA BREGUICE:</h2>
+         <a href="https://st3rf.github.io/happybday/" rel="next"><button>AQUI</button></a></div>
+        
+</body>
+<style>
+    body {
+        background-color: rgb(136, 241, 136);
+        width: 100vh;
+        height: 100vh;
+        position: top;
+        top: 0;
+        left: 100px;
+        padding: 250px;
+        text-align: center;
+        }
+
+
+button{
+    background-color: #a0ada0; 
+    border: 2px solid black;
+    border-radius: 12px;
+    color: #a0ada0;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+    background-color: rgb(1, 22, 1);
+    color: antiquewhite;
+    box-shadow: 0 12 16px 0 rgba(0,0,0,0.24) ,0 17px 50px 0 rgba(0,0,0,0.19);
+}
+</style>
+</html>
